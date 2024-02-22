@@ -1,0 +1,38 @@
+Question 1: How do average avocado prices vary by year?
+
+To answer this question, we'll construct a line chart that plots the average avocado prices over the years included in the dataset.
+Question 2: What is the distribution of avocado sales volume by type (conventional vs. organic)?
+
+This question will be answered with a bar chart comparing the total sales volume of conventional avocados versus organic avocados.
+Question 3: How does the average price of avocados vary by region?
+
+For this question, we'll use a bar chart to compare the average prices of avocados across different regions.
+Question 4: Is there a noticeable trend in the size of bags sold over time?
+
+We'll explore this question by plotting a line chart showing the trends in the sales of small, large, and xLarge bags over the years.
+Question 5: What is the relationship between the total volume of avocados sold and the average price?
+
+A scatter plot will be used to analyze the relationship between the total volume of avocados sold and their average price, to see if there's any correlation
+
+Based on the visualizations provided in the figure you've executed and shared, here are the inferences for each question:
+Question 1: How do average avocado prices vary by year?
+
+    Inference: The line chart indicates that there is volatility in average avocado prices from year to year. There appears to be a significant peak in one of the years, suggesting a sharp increase in average prices, followed by a decline.
+
+Question 2: What is the distribution of avocado sales volume by type (conventional vs. organic)?
+
+    Inference: The bar chart shows a stark contrast in the total sales volume between conventional and organic avocados, with conventional avocados having a much higher volume of sales. This suggests that conventional avocados are more popular or widely purchased compared to organic ones.
+
+Question 3: How does the average price of avocados vary by region?
+
+    Inference: From the bar chart that displays the top 10 regions by average price, it's clear that certain regions have higher average prices for avocados than others. The regions at the top of the chart, such as HartfordSpringfield and SanFrancisco, have the highest average prices, indicating regional price variations possibly due to supply and demand factors or regional economic conditions.
+
+Question 4: Is there a noticeable trend in the size of bags sold over time?
+
+    Inference: The line chart shows trends over time for the sale of small, large, and xLarge bags. It appears that small bags are the most sold, with sales peaking in a particular year before declining. The sales of large and xLarge bags seem to be significantly lower and relatively stable over the years.
+
+Question 5: What is the relationship between the total volume of avocados sold and the average price?
+
+    Inference: The scatter plot with a logarithmic x-axis for total volume shows that as the total volume increases, the average price tends to decrease, suggesting a potential inverse relationship. This could be indicative of supply and demand dynamics, where increased supply (volume) may lead to lower prices.
+
+These insights are drawn from the visual patterns observed in the plots and are common interpretations in data analysis. The specifics of the data points and exact years or values would allow for a more detailed and quantitative analysis.
